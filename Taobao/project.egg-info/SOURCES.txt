@@ -1,0 +1,16 @@
+setup.py
+Taobao/__init__.py
+Taobao/handledb.py
+Taobao/items.py
+Taobao/middlewares.py
+Taobao/pipelines.py
+Taobao/proxy.py
+Taobao/settings.py
+Taobao/spiders/Category.py
+Taobao/spiders/TaobaoProduct.py
+Taobao/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

@@ -1,0 +1,17 @@
+setup.py
+Jdcomments/__init__.py
+Jdcomments/handledb.py
+Jdcomments/items.py
+Jdcomments/middlewares.py
+Jdcomments/pipelines.py
+Jdcomments/proxy.py
+Jdcomments/settings.py
+Jdcomments/spiders/JdcommentsSpider.py
+Jdcomments/spiders/ListPageSpider.py
+Jdcomments/spiders/__init__.py
+Jdcomments/spiders/csdnspiders.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

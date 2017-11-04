@@ -1,0 +1,13 @@
+setup.py
+Jdsingle/__init__.py
+Jdsingle/items.py
+Jdsingle/middlewares.py
+Jdsingle/pipelines.py
+Jdsingle/settings.py
+Jdsingle/spiders/SingleSpider.py
+Jdsingle/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

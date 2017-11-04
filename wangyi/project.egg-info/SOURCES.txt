@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+wangyi/__init__.py
+wangyi/handledb.py
+wangyi/items.py
+wangyi/middlewares.py
+wangyi/pipelines.py
+wangyi/settings.py
+wangyi/spiders/__init__.py
+wangyi/spiders/news_spider.py
